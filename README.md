@@ -1,6 +1,6 @@
 <div align="center">
   
-![Passionate Frontend Web Developer](https://ibb.co.com/GZv64pp)
+![Passionate Frontend Web Developer](https://i.ibb.co.com/b4g0Mmm/Navy-Blue-Geometric-Technology-Linked-In-Banner.png)
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Monira+Islam!;+A+Passionate+Frontend+Web+Developer+from+🇧🇩" />
