@@ -14,7 +14,7 @@ Hi, I'm Umayer Hossain, a passionate MERN (MongoDB, Express.js, React.js, Node.j
 With a love for creating dynamic and responsive web applications. My goal is to build intuitive, user-centric digital experiences while leveraging cutting-edge technologies to solve real-world problems. I'm excited to learn and adapt to the ever-evolving world of web development, and I'm committed to turning ideas into reality through code."!!!
 
 💬  **umayerhossain.dev.174@gmail.com**  
-<h3>Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="35px"></h3>
+<h3>Connect With Me</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umayer-hossain-604999351?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/umayer.rana.1)
