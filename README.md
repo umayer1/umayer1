@@ -1,17 +1,17 @@
 <div align="center">
   
-![Passionate Frontend Web Developer](https://i.ibb.co.com/b4g0Mmm/Navy-Blue-Geometric-Technology-Linked-In-Banner.png)
+![Passionate MERN stack Web Developer](https://i.ibb.co.com/b4g0Mmm/Navy-Blue-Geometric-Technology-Linked-In-Banner.png)
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Monira+Islam!;+A+Passionate+Frontend+Web+Developer+from+🇧🇩" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Umayer+Hossain!;+A+Passionate+MERN+stack+Web+Developer+from+🇧🇩" />
 </h3>
 
 </div>
 
-<h3>About Me  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWZkdm40YjdpNXIyaWc0c2RvNWptYWZ1dWRjbTd0NTIyaHEycDF2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.webp" width="40px" height="40px"></h3>
-I'm Monira Islam, a dedicated and passionate Frontend Web Developer with a strong foundation in HTML, CSS, TailwindCSS, and JavaScript. I specialize in creating responsive and dynamic web applications using React JS. I have experience working with Firebase for backend services and MongoDB for database management, and I am proficient in integrating APIs to enhance functionality. 
+<h3>About Me </h3>
+Hi, I'm Umayer Hossain, a passionate MERN (MongoDB, Express.js, React.js, Node.js) stack web developer .
 
-I thrive in dynamic environments and am always eager to learn new technologies and improve my skills. My goal is to build user-friendly, efficient, and visually appealing web applications.
+With a love for creating dynamic and responsive web applications. My goal is to build intuitive, user-centric digital experiences while leveraging cutting-edge technologies to solve real-world problems. I'm excited to learn and adapt to the ever-evolving world of web development, and I'm committed to turning ideas into reality through code."!!!
 
 💬  **moniraislam793@gmail.com**  
 <h3>Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="35px"></h3>
